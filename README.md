@@ -6,3 +6,5 @@
 |Inception | | | | 
 |ResNet| | | | |
 |DenseNet | | | |
+|DPN ||||
+|NAS||||
